@@ -7,8 +7,8 @@ In this specialization I applied statistical, machine learning, information visu
 and social network analysis techniques through popular python toolkits such as pandas, matplotlib, scikit-learn, nltk, 
 and networkx to gain insight into their data.
 
-Course 1 - Introduction to Data Science in Python
-Course 2 - Applied Plotting, Charting & Data Representation in Python
-Course 3 - Applied Machine Learning in Python
-Course 4 - Applied Text Mining in Python
-Course 5 - Applied Social Network Analysis in Python
+Course 1 - Introduction to Data Science in Python <br>
+Course 2 - Applied Plotting, Charting & Data Representation in Python <br>
+Course 3 - Applied Machine Learning in Python <br>
+Course 4 - Applied Text Mining in Python <br>
+Course 5 - Applied Social Network Analysis in Python <br>
