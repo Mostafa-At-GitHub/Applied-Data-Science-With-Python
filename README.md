@@ -1,5 +1,5 @@
 # Applied-Data-Science-With-Python
-Courser Work For Applied Data Science With Python Specialization
+Course Work For Applied Data Science With Python Specialization
 
 ![data science specialization](https://user-images.githubusercontent.com/16829371/38179774-f08897da-35f4-11e8-9a6f-24fc8a3268e8.PNG)
 
